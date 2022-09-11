@@ -67,7 +67,7 @@ main p{
     color:hsl(321, 100%, 94%);
 }
 main .container img{
-    width: 100%;
+    width: 80%;
 }
 main .stats{
     margin:40px;
