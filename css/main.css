@@ -246,7 +246,12 @@ footer .form{
     min-height: 158px;
 }
 @media (min-width: 430px) {
-   
+    nav .container{
+        padding: 50px;
+    }
+    .container{
+        padding: 30px 60px;
+    }
     main .stats{
         flex-direction: row;
         width: 50%;
