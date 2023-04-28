@@ -246,6 +246,7 @@ footer .form{
     min-height: 158px;
 }
 @media (min-width: 430px) {
+    
     nav .container{
         padding: 50px;
     }
@@ -270,5 +271,8 @@ footer .form{
     }
     section img{
         width: 600px;
+    }
+    footer{
+        flex-direction:column;
     }
 }
